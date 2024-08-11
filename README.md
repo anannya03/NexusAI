@@ -12,3 +12,6 @@
 8. npm install
 9. npm run dev
 10. Go to localhost to use the app
+
+
+### Currently the backend deployment is not up. 
