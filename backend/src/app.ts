@@ -8,7 +8,7 @@ config();
 const app = express();
 
 //middlewares
-app.use(cors({ origin: "*", credentials: true }));
+app.use(cors({ origin: "*" }));
 app.use(express.json());
 app.use(cookieParser(process.env.COOKIE_SECRET));
 
