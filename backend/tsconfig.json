@@ -6,7 +6,7 @@
     "sourceMap": true,
     "outDir": "dist",
     "allowSyntheticDefaultImports": true,
-    "skipLibCheck": true,
+    "skipLibCheck": true
   },
-  "include": ["src/**/*.ts", "src/index.ts", "src/controllers/chat-controllers.ts"]
+  "include": ["src/**/*.ts"]
 }
