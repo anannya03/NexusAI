@@ -1,4 +1,3 @@
-## Headstarter Fellowship Project 3
 
 # This is a mono repo.
 
